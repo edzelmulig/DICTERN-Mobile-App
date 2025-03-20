@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164994613644",
+    "project_id": "dictern-ads-mobile-app",
+    "storage_bucket": "dictern-ads-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164994613644:android:1b452be907b7a44afbd6a9",
+        "android_client_info": {
+          "package_name": "com.example.dicternclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuyJ1R59cUco05N1niw2sKVzpm8_0-4Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
